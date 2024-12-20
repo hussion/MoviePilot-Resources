@@ -7,6 +7,12 @@
       "target": "app/helper",
       "version": "1.4.5"
     },
+    "sites.cp312-win_amd64.pyd": {
+      "type": "auth",
+      "platform": "Windows",
+      "target": "app/helper",
+      "version": "1.4.5"
+    },
     "sites.cpython-311-aarch64-linux-gnu.so": {
       "type": "auth",
       "platform": "Arm64",
@@ -20,6 +26,12 @@
       "version": "1.4.5"
     },
     "sites.cpython-311-x86_64-linux-gnu.so": {
+      "type": "auth",
+      "platform": "Linux",
+      "target": "app/helper",
+      "version": "1.4.5"
+    },
+    "sites.cpython-312-x86_64-linux-gnu.so": {
       "type": "auth",
       "platform": "Linux",
       "target": "app/helper",
